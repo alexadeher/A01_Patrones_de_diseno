@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'casos/factory_method.dart';
-import 'casos/consumo_memoria.dart';
+import 'casos/repository.dart';
 import 'casos/dependency_injection.dart';
 import 'casos/adapter.dart';
 import 'casos/observer.dart';
